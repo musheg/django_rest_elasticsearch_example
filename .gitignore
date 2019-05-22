@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+.idea
+.env
+static/*
+collectstatic/*
+media/*
+runserver
+makemigrations
+createsuperuser
+migrate
